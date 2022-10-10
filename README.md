@@ -1,1 +1,18 @@
-# Frontend Mentor Repo
+# Frontend-Mentor-Challenges
+
+This repository contains some challenges from [Frontend Mentors](https://www.frontendmentor.io/challenges). 
+
+### Finished Projects
+
+|Difficulty | |
+|---|---|
+| Newbie | :star: |
+| Junior | :star: :star: |
+| Intermediate | :star: :star: :star:  |
+| Advanced | :star: :star: :star: :star: :star: |
+| Guru | :star: :star: :star: :star: :star: :star: |
+
+| Name                                                                                                                                                                                            |Live View|Difficulty| Technologies / Approaches |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---------------------------|
+| [QR code component](https://github.com/iscanabdulhalik/Frontend-Mentor-Chalange-master/tree/master/src/QR%20code%20component)                                                                                    | [view](https://iscanabdulhalik.github.io/Frontend-Mentor-Chalange-master/src/QR%20code%20component/) | :star:   | HTML, CSS                 |
+| [NFT preview card component]()                                                                | [view]() | :star:   | HTML, CSS                 |
