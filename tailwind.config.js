@@ -10,6 +10,9 @@ module.exports = {
         "nftcardbackground" : "hsl(216, 50%, 16%)",
         "nfttxtcolor" : "hsl(215, 51%, 70%)",
         "nftlinecolor" : "hsl(215, 51%, 70%)",
+    },
+    backgroundImage: {
+      'order-bg': "url('src/order-summary-component-main/imges/pattern-background-desktop.svg')",
     }
     },
   },
